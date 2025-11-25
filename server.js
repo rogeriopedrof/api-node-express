@@ -1,6 +1,5 @@
 import express from 'express';
 import publicRoutes from './routes/public.js';
-import router from './routes/public.js';
 
 // Initialize express app
 const app = express();
